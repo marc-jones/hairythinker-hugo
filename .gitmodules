@@ -1,3 +1,4 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/marc-jones/marc-jones.github.io.git
+        ignore = dirty
