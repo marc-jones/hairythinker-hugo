@@ -15,7 +15,7 @@ git add -A
 git commit -m "rebuilding site `date`"
 
 # Push source and build repos.
-git push origin master
+git push origin HEAD:master
 
 # Come Back
 cd ..
