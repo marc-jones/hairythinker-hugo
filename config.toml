@@ -1,3 +1,7 @@
 baseurl = "http://hairythinker.com/"
 languageCode = "en-us"
 title = "Hairy Thinker"
+
+[params]
+    description = "The personal blog of Marc Jones"
+    author = "Marc Jones"
