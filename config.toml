@@ -5,3 +5,10 @@ title = "Hairy Thinker"
 [params]
     description = "The personal blog of Marc Jones"
     author = "Marc Jones"
+    
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
+    gene = "genes"
+    species = "species"
