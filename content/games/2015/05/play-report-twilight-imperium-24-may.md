@@ -53,7 +53,7 @@ preventing the production of new Yssaril ships. What is worse, of course, is
 that the Hacan now have a fleet of Dreadnoughts and Cruisers in flight range of 
 the planet on which I was born and raised. I'm having to decide whether to 
 commit resources to complete my objective *or* to protect the plant on which my 
-family live; it's a decision I wouldn't wish upon my worse enemy. I just need 
+family live; it's a decision I wouldn't wish upon my worst enemy. I just need 
 to 
 maintain control of Mecatol Rex for a little longer, but all of these enemy 
 fleets are making me nervous.
